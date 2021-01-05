@@ -5,7 +5,7 @@
   "dependencies": {
     "@xstyled/styled-components": "^1.8.4",
     "atomic-layout": "^0.9.4",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "framer-motion": "^1.2.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
